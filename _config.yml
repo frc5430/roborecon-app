@@ -9,7 +9,7 @@ title: Paradox Scout # site title, also used in the navbar
 email: webmaster@sdarobotics.org
 description: "A First Robotics Scouting Application built by Team Paradox 2102" # site description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://RoboRecon.org" # the base hostname & protocol for your site
+url: "http://roborecon.5430.org" # the base hostname & protocol for your site
 
 
 ### Header Settings ###
@@ -34,8 +34,8 @@ footer:
 # These are the most imporant settings, choose carefully
 
 scout:
-    teamkey: 2102
-    tbaApiKey: J9XyDSN69eZMHqanEDaevzAywDjxL9iyBYAQh2erLJJ9MtZVG60HsEYeKVwloFGe
+    teamkey: 5430
+    tbaApiKey: Mu5SqacfcPLv4Bd6DajtPDEZXvheZMnkessUo2tWpbIu3pb5j9kiruLPpqkPjkSH
     currentevent: 2018week0 # the Event key for the event you want to scout, can be found on TBA
     firebase:
         rooturl: https://paradox-scout-dc256.firebaseio.com/ # Address of Firebase Server
